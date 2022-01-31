@@ -1,0 +1,29 @@
+{
+  "name": "array-apartments-server",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000i\u0000c\u0000h\u0000e\u0000-\u0000w\u0000e\u0000b\u0000s\u0000i\u0000t\u0000e\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000-\u0000s\u0000i\u0000d\u0000e\u0000-\u0000M\u0000i\u0000j\u0000a\u0000n\u0000u\u0000r\u0000M\u0000i\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course-4/niche-website-server-side-MijanurMim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course-4/niche-website-server-side-MijanurMim/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course-4/niche-website-server-side-MijanurMim#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^10.0.0",
+    "mongodb": "^4.1.4"
+  }
+}
